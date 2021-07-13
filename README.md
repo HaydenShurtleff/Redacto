@@ -28,7 +28,7 @@ search the image for the color thats highlighted to get the position
 then fill then draw those pixels black on the image and save it
 
 then take the saved image and convert it back into a pdf 
-and voila
+and voil
 
         
         
