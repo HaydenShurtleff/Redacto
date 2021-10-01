@@ -22,7 +22,7 @@ import the libraries, and the path of the file
 
 use PyMuPDF to search for the sensitive info
 use the pymudpdf function to highlight or encircle the info
-hj
+hjgjgj
 
 use another library to convert the pdf to an image
 search the image for the color thats highlighted to get the position
