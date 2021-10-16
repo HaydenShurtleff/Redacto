@@ -30,7 +30,8 @@ then fill then draw those pixels black on the image and save it
 
 then take the saved image and convert it back into a pdf 
 and do it like that
-change it again
+change it again twice
+
 
 
         
